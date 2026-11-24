@@ -1,0 +1,17 @@
+[
+{
+  "name": "Samsung 50-inch TV",
+  "location": "Blk 3 Lvl 5 Rm 1",
+  "description": "Purchased for XYZ Exhibition",
+  "owner": "john@gmail.com",
+  "id": "1793159825388708"
+},
+
+  {
+    "name": "Evan Song",
+    "location": "e",
+    "description": "e",
+    "owner": "e@gmail.com",
+    "id": "1793162298829489"
+  }
+]
